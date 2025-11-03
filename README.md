@@ -1,6 +1,6 @@
-# SimpleSign: Real-Time Sign Language Translator
+# SignSpeak: Real-Time Sign Language Translator
 
-**SimpleSign** is a real-time sign language translation system built with **Python, Mediapipe, OpenCV, and Scikit-learn**.  
+**SignSpeak** is a real-time sign language translation system built with **Python, Mediapipe, OpenCV, and Scikit-learn**.  
 The project captures hand gestures using a webcam, processes them through Mediapipe’s landmark detection, and classifies them using a trained machine learning model. Recognized gestures are displayed on-screen and optionally converted to **speech output** for better accessibility.
 
 ## Features
